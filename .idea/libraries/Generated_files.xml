@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/www/components/users/main.js" />
+        <item url="file://$PROJECT_DIR$/HydraServer.js" />
+        <item url="file://$PROJECT_DIR$/server.js" />
+        <item url="file://$PROJECT_DIR$/www/main.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/module.js" />
+      <root url="file://$PROJECT_DIR$/lib/HydraServer.js" />
+      <root url="file://$PROJECT_DIR$/index.js" />
+      <root url="file://$PROJECT_DIR$/lib/module.js" />
+      <root url="file://$PROJECT_DIR$/lib/HydraServer.js" />
+      <root url="file://$PROJECT_DIR$/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/test/ipaddr.test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/src/ipaddr.js" />
+      <root url="file://$PROJECT_DIR$/www/components/users/main.js" />
+      <root url="file://$PROJECT_DIR$/HydraServer.js" />
+      <root url="file://$PROJECT_DIR$/server.js" />
+      <root url="file://$PROJECT_DIR$/www/main.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

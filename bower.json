@@ -1,0 +1,9 @@
+{
+    "name": "HydraServer",
+    "version": "0.0.1",
+    "dependencies": {
+        "aura": "latest",
+        "requirejs": "latest",
+        "jquery": "latest"
+    }
+}
